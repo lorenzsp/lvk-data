@@ -31,3 +31,8 @@ Between 0 and 2 (inclusive) positional arguments are accepted.
 Flags:
 - `--extract`: Extract archive files that are downloaded.
 - `--remove`: Delete archive files after extracting.
+
+I am using 
+```
+python download.py PE --extract --remove
+```
